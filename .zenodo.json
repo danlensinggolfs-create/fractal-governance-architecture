@@ -1,0 +1,20 @@
+{
+  "title": "Fractal Governance Architecture (T18): Initial Specification",
+  "description": "Machine-verifiable governance: content-addressed, tamper-evident artifacts in an append-only Merkle chain (MGC), a zero-trust reproducible state verifier scaffold (ZRSV), and SMT-LIB v2 templates for goal checking. Archived at the v0.1.0-genesis release state.",
+  "version": "v0.1.0-genesis",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "fractal-governance-architecture contributors"
+    }
+  ],
+  "keywords": [
+    "governance",
+    "merkle-chain",
+    "tamper-evident",
+    "formal-verification",
+    "smt-lib",
+    "content-addressing"
+  ]
+}
